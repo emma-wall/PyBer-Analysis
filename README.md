@@ -19,8 +19,4 @@ The below plot shows the total fares per week for each city type. It appears the
 
 ## Summary 
 
-Based on the above results, it is clear that Urban cities make up a majority of the rides and revenue. Since most of it’s revenue is generated in Urban cities, PyBer should focus on increasing and optimizing it’s business in Urban cities. In order to get better insights, it would be helpful to review a full year of data to see if there is higher demand in certain times of the year. I would also be helpful to look at times of the rides, specifically what times of day have the highest volumes of rides.  
-
-
-
-
+Based on the above results, it is clear that Urban cities make up a majority of the rides and revenue. Since most of it’s revenue is generated in Urban cities, PyBer should focus on increasing and optimizing it’s business in Urban cities. In order to get better insights, it would be helpful to review a full year of data to see if there is higher demand in certain times of the year. I would also be helpful to look at times of the rides, specifically what times of day have the highest volumes of rides.  The average fare per driver is about 70% lower in Urban cities than in Rural cities, PyBer should focus on increasing the fares for drivers in Urban cities by offering a carpool option, that way drivers will get an increased fare while driving the same distance. 
